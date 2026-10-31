@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Arif Muhammad Ihsan Marbun banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#123458"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#39c5cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <circle cx="1150" cy="40" r="220" fill="#2f81f7" opacity="0.10"/>
+  <circle cx="1040" cy="270" r="140" fill="#39c5cf" opacity="0.08"/>
+  <circle cx="120" cy="300" r="120" fill="#a371f7" opacity="0.07"/>
+  <rect x="80" y="196" width="96" height="6" rx="3" fill="url(#line)"/>
+  <text x="80" y="140" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="54" font-weight="700" fill="#e6edf3" letter-spacing="0.5">Arif Muhammad Ihsan Marbun</text>
+  <text x="80" y="178" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="25" font-weight="600" fill="#79b8ff" letter-spacing="3">MOBILE &amp; WEB DEVELOPER</text>
+  <text x="80" y="240" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="18" fill="#8b98a9" letter-spacing="1">FLUTTER · .NET · NEXT.JS · COMPUTER VISION</text>
+</svg>

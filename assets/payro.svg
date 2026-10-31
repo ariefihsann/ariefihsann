@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-label="PAYRO project card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0f2a4a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#79b8ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="398" rx="26" fill="url(#bg)" stroke="#2f81f7" stroke-opacity="0.28" stroke-width="2"/>
+  <circle cx="726" cy="26" r="150" fill="#2f81f7" opacity="0.07"/>
+  <circle cx="640" cy="330" r="90" fill="#2f81f7" opacity="0.05"/>
+  <rect x="48" y="60" width="72" height="6" rx="3" fill="url(#accent)"/>
+  <text x="48" y="140" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="44" font-weight="700" fill="#e6edf3" letter-spacing="1">PAYRO</text>
+  <text x="48" y="182" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="19" font-weight="600" fill="#79b8ff" letter-spacing="1.5">FLUTTER · RIVERPOD · .NET API</text>
+  <text x="48" y="238" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="19" fill="#9aa7b4">HR and payroll platform: attendance, leave</text>
+  <text x="48" y="268" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="19" fill="#9aa7b4">requests, overtime, payslips, notifications.</text>
+  <text x="48" y="348" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" fill="#6e7b8b">Private product · built with the PENS PBL team</text>
+</svg>
