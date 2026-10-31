@@ -70,6 +70,23 @@ I am currently part of the **PENS PBL** team building **PAYRO** — an HR and pa
 - [`sistem-voting-osis`](https://github.com/ariefihsann/sistem-voting-osis) — Laravel voting system for student council elections
 - [`Sistem-Bimbel`](https://github.com/ariefihsann/Sistem-Bimbel) — tutoring center management system
 
+## Achievements
+
+| Year | Recognition | Detail |
+| :--: | :-- | :-- |
+| 2026 | **Project Manager** — EMOSVER PENS | Operations lead of the PENS underwater robotics team competing in KRBAI |
+| 2023 | **1st place, Informatics** — OSN-K | National Science Olympiad, regency level (Aceh Selatan) |
+| 2023 | **1st place, Content Creator** — Pelajar Pelopor Keselamatan Lalu Lintas | Road safety campaign video, provincial level (Aceh) |
+| Ongoing | **OSNK Informatics mentor** | Coaching high school students for the National Science Olympiad |
+
+**GitHub achievements** — ![Quickdraw](https://img.shields.io/badge/Quickdraw-closed%20a%20PR%20in%20under%205%20minutes-6e40c9?style=flat-square&logo=github&logoColor=white)
+
+**Highlights**
+
+- Shipped the attendance, leave and overtime, notification, and payslip flows of **PAYRO** with the PENS PBL team.
+- Deployed three public products: the [portfolio site](https://ariefihsann.my.id/), the [ar-geometry AR demo](https://ariefihsann.github.io/ar-geometry/), and studyBuddy.
+- 30 public repositories across Flutter, .NET, Laravel, Next.js, and computer vision.
+
 ## GitHub activity
 
 <div align="center">
